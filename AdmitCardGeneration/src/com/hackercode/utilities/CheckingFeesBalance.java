@@ -1,5 +1,5 @@
 package com.hackercode.utilities;
-import UserDefinedException.FeesBalanceException;
+import com.hackercode.UserDefinedException.FeesBalanceException;
 
 public class CheckingFeesBalance {
     private double fees=94500;

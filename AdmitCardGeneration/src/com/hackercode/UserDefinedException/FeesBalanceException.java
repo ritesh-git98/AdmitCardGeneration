@@ -1,4 +1,4 @@
-package UserDefinedException;
+package com.hackercode.UserDefinedException;
 
 public class FeesBalanceException extends Exception {
     private double balance;
